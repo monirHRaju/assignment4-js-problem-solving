@@ -15,6 +15,6 @@ function  onlyCharacter( str ) {
     return upperCase;
 }
 
-let string = true;
+let string = "  h e llo wor   ld";
 
 console.log(onlyCharacter(string));
